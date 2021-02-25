@@ -1,7 +1,13 @@
-### Hi there 👋
+- 🔭 I’m currently working on Hewlett Packard Enterprise as Software Enginner
+
+<a href="https://github.com/appleboy">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rahbal&show_icons=true&theme=merko&count_private=true" alt="Rahul's github stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahbal&theme=merko&layout=compact" alt="Rahul Bali's github top languages" />
+</a>
+<br/>
 
 <!--
-**rahbal/rahbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**dfgh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
