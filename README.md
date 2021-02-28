@@ -1,8 +1,8 @@
 - 🔭 I’m currently working on Hewlett Packard Enterprise as Software Enginner
 
 <a href="https://github.com/rahbal">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rahbal&show_icons=true&theme=merko&count_private=true" alt="Rahul's github stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahbal&theme=merko&layout=compact" alt="Rahul Bali's github top languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rahbal&show_icons=true&theme=radical&count_private=true" alt="Rahul's github stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahbal&theme=radical&layout=compact" alt="Rahul Bali's github top languages" />
 </a>
 <br/>
 
