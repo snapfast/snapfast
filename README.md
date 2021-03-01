@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on Hewlett Packard Enterprise as Software Enginner
+- 🔭 I’m currently working on Hewlett Packard Enterprise as Software Engineer
 
 <a href="https://github.com/rahbal">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rahbal&show_icons=true&theme=tokyonight&count_private=true" alt="Rahul's github stats" />
