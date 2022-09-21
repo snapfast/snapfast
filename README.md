@@ -1,8 +1,8 @@
-- 🔭 I'm currently in Google.
+- 🔭 I'm currently in Google on Cloud products.
 
 <a href="https://github.com/rahbal">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rahbal&show_icons=true&theme=tokyonight&count_private=true" alt="Rahul's github stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahbal&theme=tokyonight&layout=compact" alt="Rahul Bali's github top languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=snapfast&show_icons=true&theme=graywhite&count_private=true" alt="Rahul's github stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snapfast&theme=graywhite&layout=compact" alt="Rahul Bali's github top languages" />
 </a>
 <br/>
 
