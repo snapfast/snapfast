@@ -1,6 +1,4 @@
 - 🔭 I'm currently working in Google Cloud - Gurgaon, India.
-- 💬 Referrals - https://forms.gle/6rd9nnUGcg8tSmtA7
-- ⚡ Practicing Vedic Astrologer - https://baliastro.netlify.app/
 
 <a href="https://github.com/snapfast">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=snapfast&show_icons=true&theme=graywhite&count_private=true" alt="Rahul's github stats" />
