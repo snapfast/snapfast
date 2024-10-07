@@ -1,4 +1,5 @@
-- 🔭 I'm currently working in Google Cloud - Gurgaon, India.
+- I'm currently working at @google
+- Really eager to expand my work - available for collaboration for development teams or startups.
 
 <!--
 
