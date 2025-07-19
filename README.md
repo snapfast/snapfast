@@ -1,5 +1,5 @@
 - I'm currently working at @google
-- Really eager to expand my work - available for collaboration for development teams or startups.
+- Available for collaboration for development teams or startups or open source.
 
 <!--
 
