@@ -1,4 +1,5 @@
-#### [schedule a zoom session](https://calendly.com/rahulbali2/new-meeting){target=_blank}
+#### <a href="https://calendly.com/rahulbali2/new-meeting" target="_blank" rel="noopener noreferrer">schedule a zoom session</a>
+
 
 <!--
 
