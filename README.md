@@ -1,5 +1,4 @@
-- I'm currently working at @google
-- Available for collaboration for development teams or startups or open source.
+- (schedule a zoom session)[https://calendly.com/rahulbali2/new-meeting]
 
 <!--
 
