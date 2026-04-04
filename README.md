@@ -1,4 +1,4 @@
-- (schedule a zoom session)[https://calendly.com/rahulbali2/new-meeting]
+#### [schedule a zoom session](https://calendly.com/rahulbali2/new-meeting)
 
 <!--
 
