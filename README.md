@@ -1,4 +1,5 @@
 #### <a href="https://calendly.com/rahulbali2/new-meeting" target="_blank" rel="noopener noreferrer">schedule a zoom session</a>
+#### <a href="https://www.credly.com/badges/5d8142ea-c96d-4536-b7e4-853cc9f888eb/public_url" target="_blank" rel="noopener noreferrer">certification</a>
 
 
 <!--
