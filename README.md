@@ -1,4 +1,4 @@
-#### <a href="https://calendly.com/rahulbali2/new-meeting" target="_blank" rel="noopener noreferrer">30-Minute Zoom Session</a>
+#### <a href="https://calendly.com/rahulbali2/new-meeting" target="_blank" rel="noopener noreferrer">Virtual Session via Zoom (30 Minutes)</a>
 #### <a href="https://www.credly.com/badges/5d8142ea-c96d-4536-b7e4-853cc9f888eb/public_url" target="_blank" rel="noopener noreferrer">Google Cloud - Professional Cloud Developer Certification</a>
 
 
